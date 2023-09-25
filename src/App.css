@@ -1,0 +1,19 @@
+#root {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #150e28;
+}
+
+.line {
+  width: 250px;
+  height: 90px;
+  border: solid 7px #ff26b9;
+  border-color: #ff26b9 transparent transparent;
+  border-radius: 50%/43px 72px 0 0;
+}
